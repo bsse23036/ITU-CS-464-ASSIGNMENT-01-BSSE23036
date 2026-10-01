@@ -9,16 +9,16 @@
 **Playtime:** 35 mintues
 
 <p>
-<img src="Docs/shadow_fight/1.png" width="240">
-<img src="Docs/shadow_fight/2.png" width="240">
-<img src="Docs/shadow_fight/3.png" width="240">
-<img src="Docs/shadow_fight/4.png" width="240">
-<img src="Docs/shadow_fight/5.png" width="240">
+<img src="Docs/shadow_fight/3.jpg" width="240">
+<img src="Docs/shadow_fight/2.jpg" width="240">
+<img src="Docs/shadow_fight/4.jpg" width="240">
+<img src="Docs/shadow_fight/5.jpg" width="240">
 </p>
 
-1. [M1, M2] [e.g., The energy meter at the top and the gear upgrade screen where coins are spent]
-2. [M3, M5] [e.g., Landing a Headhit multiplier and triggering a Shadow Energy magic attack]
-3. [M7] [e.g., The Underworld raid screen showing asynchronous clan damage leaderboards]
+1. [M1, M2] [The energy meter at the top and the gear upgrade screen where coins are spent]
+2. [M6] [The Skill Tree]
+3. [M3] [Landing a Headhit multiplier]
+4. [M5] [Triggering a Shadow Energy magic attack]
 
 | Mechanic                                                                | Dynamic                                                                                      | Aesthetic                                                                       | Bartle type                                                            |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -45,16 +45,16 @@ Secondary: **Explorers** (**interacting** with the **world**), because the joy o
 **Playtime:** 20 minutes
 
 <p>
-<img src="Docs/zombie_tsunami/1.png" width="240">
-<img src="Docs/zombie_tsunami/2.png" width="240">
-<img src="Docs/zombie_tsunami/3.png" width="240">
-<img src="Docs/zombie_tsunami/4.png" width="240">
-<img src="Docs/zombie_tsunami/5.png" width="240">
+<img src="Docs/zombie_tsunami/5.jpg" width="240">
+<img src="Docs/zombie_tsunami/4.jpg" width="240">
+<img src="Docs/zombie_tsunami/1.jpg" width="240">
+<img src="Docs/zombie_tsunami/2.jpg" width="240">
 </p>
 
-1. [M1, M2] [e.g., A large horde of zombies jumping a gap and infecting a standing civilian]
-2. [M3, M5] [e.g., The horde flipping a 4-zombie bus threshold, or using a '?' box transformation]
-3. [M6, M7] [e.g., The post-game screen showing potion vial missions and the 100-brain scratch card]
+1. [M2] [A large horde of zombies jumping a gap and infecting a standing civilian]
+2. [M3] [The horde flipping a 4-zombie bus threshold]
+3. [M5] [e.g., The horde using a '?' box transformation]
+4. [M5] [e.g., The horde activating the transformation after using the box]
 
 | Mechanic                                                                  | Dynamic                                                                                             | Aesthetic                                                                          | Bartle type                                                                      |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
