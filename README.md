@@ -6,12 +6,14 @@
 
 **Genre:** Fighting / RPG
 
-**I played:** 35 mintues
+**Playtime:** 35 mintues
 
 <p>
-<img src="Docs/game1/1.png" width="240">
-<img src="Docs/game1/2.png" width="240">
-<img src="Docs/game1/3.png" width="240">
+<img src="Docs/shadow_fight/1.png" width="240">
+<img src="Docs/shadow_fight/2.png" width="240">
+<img src="Docs/shadow_fight/3.png" width="240">
+<img src="Docs/shadow_fight/4.png" width="240">
+<img src="Docs/shadow_fight/5.png" width="240">
 </p>
 
 1. [M1, M2] [e.g., The energy meter at the top and the gear upgrade screen where coins are spent]
@@ -37,13 +39,17 @@ Secondary: **Explorers** (**interacting** with the **world**), because the joy o
 ## Game 2: Zombie Tsunami
 
 **Store link:** https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami
+
 **Genre:** Endless Runner
+
 **Playtime:** 20 minutes
 
 <p>
-<img src="Docs/game2/1.png" width="240">
-<img src="Docs/game2/2.png" width="240">
-<img src="Docs/game2/3.png" width="240">
+<img src="Docs/zombie_tsunami/1.png" width="240">
+<img src="Docs/zombie_tsunami/2.png" width="240">
+<img src="Docs/zombie_tsunami/3.png" width="240">
+<img src="Docs/zombie_tsunami/4.png" width="240">
+<img src="Docs/zombie_tsunami/5.png" width="240">
 </p>
 
 1. [M1, M2] [e.g., A large horde of zombies jumping a gap and infecting a standing civilian]
