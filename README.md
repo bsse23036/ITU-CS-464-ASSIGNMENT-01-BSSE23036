@@ -53,8 +53,8 @@ Secondary: **Explorers** (**interacting** with the **world**), because the joy o
 
 1. [M2] [A large horde of zombies jumping a gap and infecting a standing civilian]
 2. [M3] [The horde flipping a 4-zombie bus threshold]
-3. [M5] [e.g., The horde using a '?' box transformation]
-4. [M5] [e.g., The horde activating the transformation after using the box]
+3. [M5] [The horde using a '?' box transformation]
+4. [M5] [The horde activating the transformation after using the box]
 
 | Mechanic                                                                  | Dynamic                                                                                             | Aesthetic                                                                          | Bartle type                                                                      |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -74,10 +74,10 @@ Secondary: **Explorers** (**interacting** with the **world**), because players e
 
 ## Level blockouts
 
-| Level   | Screenshot                                      | Its idea                                                                                                | Wayfinding tool                                                                |
-| ------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | A horizontal tactical maze with 1.5m doorways forcing blind exploration into side rooms.                | Landmark (a visually distinct central pillar guiding the main path).           |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | A vertical tech atrium using 45-degree ramps and 3m jump gaps to test controller limits.                | Light and contrast (a single point light highlighting the upper catwalk goal). |
-| Level03 | <img src="Docs/levels/level03.png" width="320"> | A split-route arena where the player chooses between a safe long path or a risky jumping shortcut.      | Leading lines (floor geometry visually pointing toward the correct exit).      |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | A claustrophobic crawl utilizing 1.2m cover blocks to force a pinch before opening into a large reveal. | Pinch and release (tight spatial constraints exploding into an open yard).     |
-| Level05 | <img src="Docs/levels/level05.png" width="320"> | A high-risk balancing act across narrow cylinder bridges suspended above a bottomless floor.            | Breadcrumbs (a trail of small cubes leading across the safest path).           |
+| Level   | Screenshot                                                  | Its idea                                                                                                     | Wayfinding tool                                                                |
+| ------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Level01 | <img src="Docs/levels/level01.png" width="320" height="55"> | A linear parkour stunt track testing momentum with 45-degree ramps, jump gaps, and a narrow cylinder bridge. | Landmark (the tall goal flag visible at the end of the straight path).         |
+| Level02 | <img src="Docs/levels/level02.png" width="320">             | A vertical tech atrium using 45-degree ramps and 3m jump gaps to test controller limits.                     | Light and contrast (a single point light highlighting the upper catwalk goal). |
+| Level03 | <img src="Docs/levels/level03.png" width="320">             | A split-route arena where the player chooses between a safe long path or a risky jumping shortcut.           | Leading lines (floor geometry visually pointing toward the correct exit).      |
+| Level04 | <img src="Docs/levels/level04.png" width="320">             | A claustrophobic crawl utilizing 1.2m cover blocks to force a pinch before opening into a large reveal.      | Pinch and release (tight spatial constraints exploding into an open yard).     |
+| Level05 | <img src="Docs/levels/level05.png" width="320">             | A high-risk balancing act across narrow cylinder bridges suspended above a bottomless floor.                 | Breadcrumbs (a trail of small cubes leading across the safest path).           |
