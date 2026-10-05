@@ -10,7 +10,7 @@ This repository contains my breakdown of two mobile games using the MDA (Mechani
 
 - **Genre:** Fighting / RPG
 - **Playtime:** 35 minutes
-- **Store Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.nekki.shadowfight)
+- **Store Link:** https://play.google.com/store/apps/details?id=com.nekki.shadowfight
 
 <p>
 <img src="Docs/shadow_fight/3.jpg" width="240">
@@ -53,7 +53,7 @@ This repository contains my breakdown of two mobile games using the MDA (Mechani
 
 - **Genre:** Endless Runner
 - **Playtime:** 20 minutes
-- **Store Link:** [Google Play Store](https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami)
+- **Store Link:** https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami
 
 <p>
 <img src="Docs/zombie_tsunami/5.jpg" width="240">
